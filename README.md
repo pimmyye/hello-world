@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first repository, just learn how to use github. 
+My first repository, just learn how to work with github. 
